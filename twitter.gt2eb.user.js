@@ -4,6 +4,7 @@
 // @description   A try to make Twitter look good again.
 // @author        schwarzkatz
 // @license       MIT
+// @match         https://x.com/*
 // @match         https://twitter.com/*
 // @match         https://mobile.twitter.com/*
 // @exclude       https://twitter.com/i/cards/*
